@@ -81,7 +81,7 @@ brand1.innerHTML = `<h2> task 9 </h2>
     fname:"rishita",
     lname:"kadam",
     role:"frontend Developer",
-    email:"abc@gmail.com",
+    email:"abcd@gmail.com",
 
 
  };
